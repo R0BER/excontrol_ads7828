@@ -3,10 +3,9 @@
 This is an Arduino library for the Texas Instruments ADS7828 12-bit, 8-channel I<sup>2</sup>C A/D converter.
 You can use it with ExControl Industrial I2C Analog Input or other compatible devices.
 
-![ExControl industrial I2C Analog Input](https://raw.githubusercontent.com/R0BER/excontrol_ads7828/master/assets/i2c-ce-certificate-0-10v-4-20ma.jpg)
-
 
 https://excontrol.es/shop/plc-industrial-arduino-mkr/
+
 https://excontrol.es/shop
 
 
