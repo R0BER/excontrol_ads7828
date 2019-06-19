@@ -1,7 +1,9 @@
 = ads7828 for Arduino =
 
 This is an Arduino library for the Texas Instruments ADS7828 12-bit, 8-channel I<sup>2</sup>C A/D converter.
+You can use it with ExControl Industrial I2C Analog Input or other compatible devices.
 
+https://excontrol.es/shop
 
 
 == License ==
